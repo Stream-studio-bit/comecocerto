@@ -1,6 +1,6 @@
 # comecocerto
 # Protótipo de Frontend - Plataforma "Começo Certo"
-![Dashboard Preview](https://raw.githubusercontent.com/Stream-studio-bit/comecocerto-readme/main/prototipo-frontend.jpg)
+![Dashboard Preview](https://raw.githubusercontent.com/Stream-studio-bit/comecocerto/main/prototipo-frontend.jpg)
 
 Este repositório contém o protótipo do frontend responsivo para a plataforma **"Começo Certo"**, uma solução inovadora voltada para jovens em busca do primeiro emprego e estágio. O design do projeto é moderno, vibrante e inspirado no **metaverso**, proporcionando uma experiência interativa e futurista.
 
